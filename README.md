@@ -1,0 +1,1 @@
+# CRUDDemo.NET6.Minio
